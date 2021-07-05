@@ -30,3 +30,14 @@ color:white;
 font-weight: 700;
 
 }
+.middle{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.clean{
+    text-align:justify;
+    padding:150px 130px;
+}
+h2{
+    font-size: 40px;
+}
