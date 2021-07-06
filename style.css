@@ -19,6 +19,7 @@ section{
 }
 p{
     color:gray;
+    
 }
 .orange{
     color:orange;
@@ -47,3 +48,7 @@ h2{
     font-size: 40px;
     color:gray;
 }
+.selection{
+    text-align:center;
+}
+
