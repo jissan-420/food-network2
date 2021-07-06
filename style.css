@@ -74,6 +74,26 @@ h3{
     border-radius:15px;
 
 }
-
-
+.decoration{
+    display: flex;
+    width:100%;
+}
+#new{
+    text-align: right;
+}
+#final {
+  padding-left: 3%;
+}
+footer{
+    background-color: black;
+    color:white;
+}
+footer h2{
+    text-align:center;
+    
+}
+footer p{
+    text-align: center;
+    color:white;
+}
 
